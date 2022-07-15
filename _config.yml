@@ -5,6 +5,8 @@ author:             Flora Zhang
 # baseurl:           
 url:                "https://florazhang.github.io"
 
+theme: jekyll-theme-clean-blog
+
 # Social Profiles
 # twitter_username:   SBootstrap
 github_username:    TealTheAvocado
