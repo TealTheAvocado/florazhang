@@ -2,7 +2,7 @@ title:              Flora Zhang
 email: zhangfl@oregonstate.edu
 description:        My Website! It features my blog/stories and projects!
 author:             Flora Zhang
-baseurl:            /florazhang
+# baseurl:            /florazhang
 url:                "https://tealtheavocado.github.io/florazhang/"
 
 # Social Profiles
