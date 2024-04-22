@@ -3,7 +3,7 @@ email: zhangfl@oregonstate.edu
 description:        My Website! It features my blog/stories and projects!
 author:             Flora Zhang
 # baseurl:            /florazhang
-url:                "florazhang.me"
+url:                "https://florazhang.me"
 
 # Social Profiles
 twitter_username:   flora_zhang3
